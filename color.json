@@ -2193,6 +2193,12 @@
             "settings": {
                 "foreground": "#B267E6"
             }
+        },
+        {
+            "scope": "constant.language.boolean.rust",
+            "settings": {
+                "foreground": "#FF69B4"
+            }
         }
     ]
 }}
