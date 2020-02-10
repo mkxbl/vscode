@@ -2195,6 +2195,12 @@
             }
         },
         {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
             "scope": "constant.language.boolean.rust",
             "settings": {
                 "foreground": "#FF69B4"
