@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "Didot, Futura, Noteworthy, 'American Typewriter', 'Courier New', 'Comic Sans MS'",
+    "editor.fontFamily": "'Comic Sans MS', Chalkboard, Luminari, 'Marker Felt', 'Bradley Hand', 'American Typewriter', Futura, Noteworthy, Didot, 'Courier New'",
     "window.zoomLevel": 3,
     "editor.minimap.enabled": false,
     "files.autoSave": "onFocusChange",
