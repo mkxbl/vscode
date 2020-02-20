@@ -1,6 +1,8 @@
 {
-    "editor.fontFamily": "'Comic Sans MS', Chalkboard, Luminari, 'Marker Felt', 'Bradley Hand', 'American Typewriter', Futura, Noteworthy, Didot, 'Courier New'",
+    "editor.fontFamily": "'Courier New', 'American Typewriter', Didot, Futura, 'Comic Sans MS', Chalkboard, 'Marker Felt', Noteworthy",
     "window.zoomLevel": 3,
+    "workbench.colorTheme": "code-tm",
+    "workbench.preferredDarkColorTheme": "code-tm",
     "editor.minimap.enabled": false,
     "files.autoSave": "onFocusChange",
     "editor.formatOnSave": true,
@@ -40,4 +42,6 @@
     "breadcrumbs.showPackages": false,
     "breadcrumbs.showStructs": false,
     "breadcrumbs.showTypeParameters": false,
+    "code-runner.showRunIconInEditorTitleMenu": false,
+    "window.newWindowDimensions": "maximized"
 }
