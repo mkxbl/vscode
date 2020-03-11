@@ -30,6 +30,7 @@
         "editor.findMatchBackground": "#ffffff00",
         "editor.findMatchBorder": "#ffffff",
         "editor.findMatchHighlightBackground": "#ffffff00",
+        "editor.findMatchHighlightBorder": "#ffffff",
         "editor.findRangeHighlightBackground": "#68948a40",
         "editor.foreground": "#fafad2",
         "editor.hoverHighlightBackground": "#72966c50",
@@ -289,6 +290,7 @@
         //"imagePreview.border": "#80808059",
         //"inputOption.activeBackground": "#ff000000",
         //"list.filterMatchBackground": "#ffffff00",
+        //"list.filterMatchBorder": "#ffffff",
         //"list.invalidItemForeground": "#b89500",
         //"listFilterWidget.background": "#653723",
         //"listFilterWidget.noMatchesOutline": "#be1100",
@@ -320,6 +322,7 @@
         //"quickInput.background": "#1d2021",
         //"quickInput.foreground": "#afafaf",
         //"searchEditor.findMatchBackground": "#ffffff00",
+        //"searchEditor.findMatchBorder": "#ffffffa8",
         //"searchEditor.textInputBorder": "#3c3836",
         //"settings.dropdownListBorder": "#ff000000",
         //"settings.modifiedItemIndicator": "#0c7d9d",
@@ -2205,6 +2208,24 @@
             "scope": "constant.language.boolean.rust",
             "settings": {
                 "foreground": "#FF69B4"
+            }
+        },
+        {
+            "scope": "storage.type.rust",
+            "settings": {
+                "foreground": "#C9ABF8"
+            }
+        },
+        {
+            "scope": "keyword.other.fn.rust",
+            "settings": {
+                "foreground": "#C9ABF8"
+            }
+        },
+        {
+            "scope": "storage.modifier.const.rust",
+            "settings": {
+                "foreground": "#00CBCE"
             }
         }
     ]
